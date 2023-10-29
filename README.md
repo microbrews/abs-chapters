@@ -12,7 +12,8 @@ Then I have some example usages in the code, but you can either download chapter
 ## Chapter Specs
 In its current state this tool doesn't handle a whole lot of edge cases.  I've made assumptions that chapters should look like the following:
 
-#### [m4b-tool](https://github.com/sandreas/m4b-tool#fixed-chapters)
+#### m4b-tool
+https://github.com/sandreas/m4b-tool#fixed-chapters
 ```
 00:00:00.000 Intro
 00:04:19.153 This is
@@ -20,7 +21,8 @@ In its current state this tool doesn't handle a whole lot of edge cases.  I've m
 00:14:34.500 Chapters manually
 ```
 
-#### [audiobookshelf](https://api.audiobookshelf.org/#get-a-library-item)
+#### audiobookshelf
+https://api.audiobookshelf.org/#get-a-library-item
 ```
 {
     "media": {
@@ -43,7 +45,7 @@ In its current state this tool doesn't handle a whole lot of edge cases.  I've m
 ```
 
 #### CUE
-This format seems to be somewhat poorly defined, since it was made for CD-ROMs and the official spec therefore has some now unecessary limitations (e.g. maximum 99 tracks).  It seems that inAudible and Libation have their own pseudo-specs.  This is how my tool wants them to look:
+This format seems to be somewhat poorly defined, since it was made for CD-ROMs and the official spec therefore has some now unecessary limitations (e.g. maximum 99 tracks).  It seems that inAudible and Libation have their own pseudo-specs.  This is how the tool wants them to look:
 
 ```
 FILE "" MP3
