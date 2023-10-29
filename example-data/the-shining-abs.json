@@ -1,0 +1,398 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 15,
+    "title": "Opening Credits"
+  },
+  {
+    "id": 1,
+    "start": 15,
+    "end": 40.523938,
+    "title": "Introduction"
+  },
+  {
+    "id": 2,
+    "start": 40.523938,
+    "end": 44,
+    "title": "Part One: Prefatory Matters"
+  },
+  {
+    "id": 3,
+    "start": 44,
+    "end": 1094.9363130000002,
+    "title": "1. Job Interview"
+  },
+  {
+    "id": 4,
+    "start": 1094.9363130000002,
+    "end": 1677.1694380000001,
+    "title": "2. Boulder"
+  },
+  {
+    "id": 5,
+    "start": 1677.1694380000001,
+    "end": 2978.316313,
+    "title": "3. Watson"
+  },
+  {
+    "id": 6,
+    "start": 2978.316313,
+    "end": 4232.521251,
+    "title": "4. Shadowland"
+  },
+  {
+    "id": 7,
+    "start": 4232.521251,
+    "end": 5251.023314000001,
+    "title": "5. Phonebooth"
+  },
+  {
+    "id": 8,
+    "start": 5251.023314000001,
+    "end": 6672.890128000002,
+    "title": "6. Night Thoughts"
+  },
+  {
+    "id": 9,
+    "start": 6672.890128000002,
+    "end": 6879.343816000001,
+    "title": "7. In Another Bedroom"
+  },
+  {
+    "id": 10,
+    "start": 6879.343816000001,
+    "end": 6883,
+    "title": "Part Two: Closing Day"
+  },
+  {
+    "id": 11,
+    "start": 6883,
+    "end": 7413.328754000001,
+    "title": "8. A View of the Overlook"
+  },
+  {
+    "id": 12,
+    "start": 7413.328754000001,
+    "end": 8157.502943,
+    "title": "9. Checking it Out"
+  },
+  {
+    "id": 13,
+    "start": 8157.502943,
+    "end": 9166.854131,
+    "title": "10. Hallorann"
+  },
+  {
+    "id": 14,
+    "start": 9166.854131,
+    "end": 10414.267133,
+    "title": "11. The Shining"
+  },
+  {
+    "id": 15,
+    "start": 10414.267133,
+    "end": 11642.140571,
+    "title": "12. The Grand Tour"
+  },
+  {
+    "id": 16,
+    "start": 11642.140571,
+    "end": 11855.203259,
+    "title": "13. The Front Porch"
+  },
+  {
+    "id": 17,
+    "start": 11855.203259,
+    "end": 11865,
+    "title": "Part Three: The Wasps' Nest"
+  },
+  {
+    "id": 18,
+    "start": 11865,
+    "end": 13529.995511999998,
+    "title": "14. Up on the Roof"
+  },
+  {
+    "id": 19,
+    "start": 13529.995511999998,
+    "end": 14000.790261999999,
+    "title": "15. Down in the Front Yard"
+  },
+  {
+    "id": 20,
+    "start": 14000.790261999999,
+    "end": 16023.019201000001,
+    "title": "16. Danny"
+  },
+  {
+    "id": 21,
+    "start": 16023.019201000001,
+    "end": 17917.213890000003,
+    "title": "17. The Doctor\u2019s Office"
+  },
+  {
+    "id": 22,
+    "start": 17917.213890000003,
+    "end": 19866.856580000003,
+    "title": "18. The Scrapbook"
+  },
+  {
+    "id": 23,
+    "start": 19866.856580000003,
+    "end": 20921.765331,
+    "title": "19. Outside 217"
+  },
+  {
+    "id": 24,
+    "start": 20921.765331,
+    "end": 22257.367832,
+    "title": "20. Talking to Mr Ullman"
+  },
+  {
+    "id": 25,
+    "start": 22257.367832,
+    "end": 23905.724271,
+    "title": "21. Night Thoughts"
+  },
+  {
+    "id": 26,
+    "start": 23905.724271,
+    "end": 24441.537834,
+    "title": "22. In the Truck"
+  },
+  {
+    "id": 27,
+    "start": 24441.537834,
+    "end": 25370.14446,
+    "title": "23. In the Playground"
+  },
+  {
+    "id": 28,
+    "start": 25370.14446,
+    "end": 25508.34021,
+    "title": "24. Snow"
+  },
+  {
+    "id": 29,
+    "start": 25508.34021,
+    "end": 26486.109335999998,
+    "title": "25. Inside 217"
+  },
+  {
+    "id": 30,
+    "start": 26486.109335999998,
+    "end": 26490,
+    "title": "Part Four: Snowbound"
+  },
+  {
+    "id": 31,
+    "start": 26490,
+    "end": 27540.652337,
+    "title": "26. Dreamland"
+  },
+  {
+    "id": 32,
+    "start": 27540.652337,
+    "end": 28346.005337,
+    "title": "27. Catatonic"
+  },
+  {
+    "id": 33,
+    "start": 28346.005337,
+    "end": 29498.698338,
+    "title": "28. 'It was Her!'"
+  },
+  {
+    "id": 34,
+    "start": 29498.698338,
+    "end": 30334.387526,
+    "title": "29. Kitchen Talk"
+  },
+  {
+    "id": 35,
+    "start": 30334.387526,
+    "end": 31018.793526999998,
+    "title": "30. 217 Revisited"
+  },
+  {
+    "id": 36,
+    "start": 31018.793526999998,
+    "end": 31070.419465,
+    "title": "31. The Verdict"
+  },
+  {
+    "id": 37,
+    "start": 31070.419465,
+    "end": 33465.614592,
+    "title": "32. The Bedroom"
+  },
+  {
+    "id": 38,
+    "start": 33465.614592,
+    "end": 34804.054219000005,
+    "title": "33. The Snowmobile"
+  },
+  {
+    "id": 39,
+    "start": 34804.054219000005,
+    "end": 35979.08190800001,
+    "title": "34. The Hedges"
+  },
+  {
+    "id": 40,
+    "start": 35979.08190800001,
+    "end": 36496.55747100001,
+    "title": "35. The Lobby"
+  },
+  {
+    "id": 41,
+    "start": 36496.55747100001,
+    "end": 37147.37003400001,
+    "title": "36. The Elevator"
+  },
+  {
+    "id": 42,
+    "start": 37147.37003400001,
+    "end": 37995.467348000006,
+    "title": "37. The Ballroom"
+  },
+  {
+    "id": 43,
+    "start": 37995.467348000006,
+    "end": 38000,
+    "title": "Part Five: Matters of Life and Death"
+  },
+  {
+    "id": 44,
+    "start": 38000,
+    "end": 39727.528038000004,
+    "title": "38. Florida"
+  },
+  {
+    "id": 45,
+    "start": 39727.528038000004,
+    "end": 40244.03710100001,
+    "title": "39. On the Stairs"
+  },
+  {
+    "id": 46,
+    "start": 40244.03710100001,
+    "end": 40937.61216400001,
+    "title": "40. In the Basement"
+  },
+  {
+    "id": 47,
+    "start": 40937.61216400001,
+    "end": 41480.81835200002,
+    "title": "41. Daylight"
+  },
+  {
+    "id": 48,
+    "start": 41480.81835200002,
+    "end": 41980.66129000002,
+    "title": "42. Mid-Air"
+  },
+  {
+    "id": 49,
+    "start": 41980.66129000002,
+    "end": 42725.41016600002,
+    "title": "43. Drinks on the House"
+  },
+  {
+    "id": 50,
+    "start": 42725.41016600002,
+    "end": 44231.26054200001,
+    "title": "44. Conversations at the Party"
+  },
+  {
+    "id": 51,
+    "start": 44231.26054200001,
+    "end": 44989.95885500001,
+    "title": "45. Stapleton Airport, Denver"
+  },
+  {
+    "id": 52,
+    "start": 44989.95885500001,
+    "end": 46955.03185600001,
+    "title": "46. Wendy"
+  },
+  {
+    "id": 53,
+    "start": 46955.03185600001,
+    "end": 47175.74841900001,
+    "title": "47. Danny"
+  },
+  {
+    "id": 54,
+    "start": 47175.74841900001,
+    "end": 47869.53242000001,
+    "title": "48. Jack"
+  },
+  {
+    "id": 55,
+    "start": 47869.53242000001,
+    "end": 48829.25092100001,
+    "title": "49. Hallorann, Going Up the Country"
+  },
+  {
+    "id": 56,
+    "start": 48829.25092100001,
+    "end": 49965.04279700002,
+    "title": "50. Redrum"
+  },
+  {
+    "id": 57,
+    "start": 49965.04279700002,
+    "end": 50769.66436000002,
+    "title": "51. Hallorann Arrives"
+  },
+  {
+    "id": 58,
+    "start": 50769.66436000002,
+    "end": 51529.22467300002,
+    "title": "52. Wendy and Jack"
+  },
+  {
+    "id": 59,
+    "start": 51529.22467300002,
+    "end": 52286.72129900001,
+    "title": "53. Hallorann Laid Low"
+  },
+  {
+    "id": 60,
+    "start": 52286.72129900001,
+    "end": 53139.651237000005,
+    "title": "54. Tony"
+  },
+  {
+    "id": 61,
+    "start": 53139.651237000005,
+    "end": 54079.77792500001,
+    "title": "55. That Which was Forgotten"
+  },
+  {
+    "id": 62,
+    "start": 54079.77792500001,
+    "end": 54650.177613000014,
+    "title": "56. The Explosion"
+  },
+  {
+    "id": 63,
+    "start": 54650.177613000014,
+    "end": 55570.89536400001,
+    "title": "57. Exit"
+  },
+  {
+    "id": 64,
+    "start": 55570.89536400001,
+    "end": 56299.814053,
+    "title": "58. Epilogue/Summer"
+  },
+  {
+    "id": 65,
+    "start": 56299.814053,
+    "end": 56425.862866,
+    "title": "Closing Credits"
+  }
+]
